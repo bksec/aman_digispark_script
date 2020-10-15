@@ -5,4 +5,4 @@ digispark spam aman aman nereye geldik with voice
 Tr</br>
 Digispark sesli bir şekilde aman aman nereye geldik spamlar
 </br>
-https://youtu.be/GMss6l2iecA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GMss6l2iecA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
